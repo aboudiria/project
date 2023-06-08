@@ -1,1 +1,3 @@
 # project
+This website can be use by supermarket pharmacies and other...
+thank you for your visit
